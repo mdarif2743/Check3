@@ -98,40 +98,14 @@ http://103.140.254.2:3500/live/2862.m3u8
 
 #EXTINF:-1,Channel 2914
 http://103.140.254.2:3500/live/2914.m3u8
-#EXTINF:-1,Channel 2915
-http://103.140.254.2:3500/live/2915.m3u8
+
 #EXTINF:-1,Channel 2916
 http://103.140.254.2:3500/live/2916.m3u8
 #EXTINF:-1,Channel 2917
 http://103.140.254.2:3500/live/2917.m3u8
 #EXTINF:-1,Channel 2918
 http://103.140.254.2:3500/live/2918.m3u8
-#EXTINF:-1,Channel 2919
-http://103.140.254.2:3500/live/2919.m3u8
-#EXTINF:-1,Channel 2920
-http://103.140.254.2:3500/live/2920.m3u8
-#EXTINF:-1,Channel 2921
-http://103.140.254.2:3500/live/2921.m3u8
-#EXTINF:-1,Channel 2922
-http://103.140.254.2:3500/live/2922.m3u8
-#EXTINF:-1,Channel 2923
-http://103.140.254.2:3500/live/2923.m3u8
-#EXTINF:-1,Channel 2924
-http://103.140.254.2:3500/live/2924.m3u8
-#EXTINF:-1,Channel 2925
-http://103.140.254.2:3500/live/2925.m3u8
-#EXTINF:-1,Channel 2926
-http://103.140.254.2:3500/live/2926.m3u8
-#EXTINF:-1,Channel 2927
-http://103.140.254.2:3500/live/2927.m3u8
-#EXTINF:-1,Channel 2928
-http://103.140.254.2:3500/live/2928.m3u8
-#EXTINF:-1,Channel 2929
-http://103.140.254.2:3500/live/2929.m3u8
-#EXTINF:-1,Channel 2930
-http://103.140.254.2:3500/live/2930.m3u8
-#EXTINF:-1,Channel 2931
-http://103.140.254.2:3500/live/2931.m3u8
+
 #EXTINF:-1,Channel 2932
 http://103.140.254.2:3500/live/2932.m3u8
 #EXTINF:-1,Channel 2933
