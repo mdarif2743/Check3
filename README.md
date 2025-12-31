@@ -120,40 +120,17 @@ http://103.140.254.2:3500/live/2936.m3u8
 http://103.140.254.2:3500/live/2937.m3u8
 #EXTINF:-1,Channel 2938
 http://103.140.254.2:3500/live/2938.m3u8
-#EXTINF:-1,Channel 2939
-http://103.140.254.2:3500/live/2939.m3u8
-#EXTINF:-1,Channel 2940
-http://103.140.254.2:3500/live/2940.m3u8
-#EXTINF:-1,Channel 2941
-http://103.140.254.2:3500/live/2941.m3u8
-#EXTINF:-1,Channel 2942
-http://103.140.254.2:3500/live/2942.m3u8
-#EXTINF:-1,Channel 2943
-http://103.140.254.2:3500/live/2943.m3u8
-#EXTINF:-1,Channel 2944
-http://103.140.254.2:3500/live/2944.m3u8
+
 #EXTINF:-1,Channel 2945
 http://103.140.254.2:3500/live/2945.m3u8
 #EXTINF:-1,Channel 2946
 http://103.140.254.2:3500/live/2946.m3u8
 #EXTINF:-1,Channel 2947
 http://103.140.254.2:3500/live/2947.m3u8
-#EXTINF:-1,Channel 2948
-http://103.140.254.2:3500/live/2948.m3u8
-#EXTINF:-1,Channel 2949
-http://103.140.254.2:3500/live/2949.m3u8
-#EXTINF:-1,Channel 2950
-http://103.140.254.2:3500/live/2950.m3u8
-#EXTINF:-1,Channel 2951
-http://103.140.254.2:3500/live/2951.m3u8
-#EXTINF:-1,Channel 2952
-http://103.140.254.2:3500/live/2952.m3u8
-#EXTINF:-1,Channel 2953
-http://103.140.254.2:3500/live/2953.m3u8
+
 #EXTINF:-1,Channel 2954
 http://103.140.254.2:3500/live/2954.m3u8
-#EXTINF:-1,Channel 2955
-http://103.140.254.2:3500/live/2955.m3u8
+
 #EXTINF:-1,Channel 2956
 http://103.140.254.2:3500/live/2956.m3u8
 #EXTINF:-1,Channel 2957
@@ -162,94 +139,15 @@ http://103.140.254.2:3500/live/2957.m3u8
 http://103.140.254.2:3500/live/2958.m3u8
 #EXTINF:-1,Channel 2959
 http://103.140.254.2:3500/live/2959.m3u8
-#EXTINF:-1,Channel 2960
-http://103.140.254.2:3500/live/2960.m3u8
+
 #EXTINF:-1,Channel 2961
 http://103.140.254.2:3500/live/2961.m3u8
 #EXTINF:-1,Channel 2962
 http://103.140.254.2:3500/live/2962.m3u8
-#EXTINF:-1,Channel 2963
-http://103.140.254.2:3500/live/2963.m3u8
-#EXTINF:-1,Channel 2964
-http://103.140.254.2:3500/live/2964.m3u8
-#EXTINF:-1,Channel 2965
-http://103.140.254.2:3500/live/2965.m3u8
-#EXTINF:-1,Channel 2966
-http://103.140.254.2:3500/live/2966.m3u8
-#EXTINF:-1,Channel 2967
-http://103.140.254.2:3500/live/2967.m3u8
-#EXTINF:-1,Channel 2968
-http://103.140.254.2:3500/live/2968.m3u8
-#EXTINF:-1,Channel 2969
-http://103.140.254.2:3500/live/2969.m3u8
-#EXTINF:-1,Channel 2970
-http://103.140.254.2:3500/live/2970.m3u8
-#EXTINF:-1,Channel 2971
-http://103.140.254.2:3500/live/2971.m3u8
-#EXTINF:-1,Channel 2972
-http://103.140.254.2:3500/live/2972.m3u8
-#EXTINF:-1,Channel 2973
-http://103.140.254.2:3500/live/2973.m3u8
-#EXTINF:-1,Channel 2974
-http://103.140.254.2:3500/live/2974.m3u8
-#EXTINF:-1,Channel 2975
-http://103.140.254.2:3500/live/2975.m3u8
-#EXTINF:-1,Channel 2976
-http://103.140.254.2:3500/live/2976.m3u8
-#EXTINF:-1,Channel 2977
-http://103.140.254.2:3500/live/2977.m3u8
-#EXTINF:-1,Channel 2978
-http://103.140.254.2:3500/live/2978.m3u8
-#EXTINF:-1,Channel 2979
-http://103.140.254.2:3500/live/2979.m3u8
-#EXTINF:-1,Channel 2980
-http://103.140.254.2:3500/live/2980.m3u8
-#EXTINF:-1,Channel 2981
-http://103.140.254.2:3500/live/2981.m3u8
-#EXTINF:-1,Channel 2982
-http://103.140.254.2:3500/live/2982.m3u8
-#EXTINF:-1,Channel 2983
-http://103.140.254.2:3500/live/2983.m3u8
-#EXTINF:-1,Channel 2984
-http://103.140.254.2:3500/live/2984.m3u8
-#EXTINF:-1,Channel 2985
-http://103.140.254.2:3500/live/2985.m3u8
-#EXTINF:-1,Channel 2986
-http://103.140.254.2:3500/live/2986.m3u8
-#EXTINF:-1,Channel 2987
-http://103.140.254.2:3500/live/2987.m3u8
-#EXTINF:-1,Channel 2988
-http://103.140.254.2:3500/live/2988.m3u8
-#EXTINF:-1,Channel 2989
-http://103.140.254.2:3500/live/2989.m3u8
-#EXTINF:-1,Channel 2990
-http://103.140.254.2:3500/live/2990.m3u8
-#EXTINF:-1,Channel 2991
-http://103.140.254.2:3500/live/2991.m3u8
-#EXTINF:-1,Channel 2992
-http://103.140.254.2:3500/live/2992.m3u8
-#EXTINF:-1,Channel 2993
-http://103.140.254.2:3500/live/2993.m3u8
-#EXTINF:-1,Channel 2994
-http://103.140.254.2:3500/live/2994.m3u8
-#EXTINF:-1,Channel 2995
-http://103.140.254.2:3500/live/2995.m3u8
-#EXTINF:-1,Channel 2996
-http://103.140.254.2:3500/live/2996.m3u8
-#EXTINF:-1,Channel 2997
-http://103.140.254.2:3500/live/2997.m3u8
-#EXTINF:-1,Channel 2998
-http://103.140.254.2:3500/live/2998.m3u8
-#EXTINF:-1,Channel 2999
-http://103.140.254.2:3500/live/2999.m3u8
-#EXTINF:-1,Channel 3000
-http://103.140.254.2:3500/live/3000.m3u8
-#EXTINF:-1,Channel 3001
-http://103.140.254.2:3500/live/3001.m3u8
-#EXTINF:-1,Channel 3002
-http://103.140.254.2:3500/live/3002.m3u8
-#EXTINF:-1,Channel 3003
-http://103.140.254.2:3500/live/3003.m3u8
+
+
+
+
 #EXTINF:-1,Channel 3004
 http://103.140.254.2:3500/live/3004.m3u8
 #EXTINF:-1,Channel 3005
@@ -260,20 +158,13 @@ http://103.140.254.2:3500/live/3006.m3u8
 http://103.140.254.2:3500/live/3007.m3u8
 #EXTINF:-1,Channel 3008
 http://103.140.254.2:3500/live/3008.m3u8
-#EXTINF:-1,Channel 3009
-http://103.140.254.2:3500/live/3009.m3u8
-#EXTINF:-1,Channel 3010
-http://103.140.254.2:3500/live/3010.m3u8
+
 #EXTINF:-1,Channel 3011
 http://103.140.254.2:3500/live/3011.m3u8
-#EXTINF:-1,Channel 3012
-http://103.140.254.2:3500/live/3012.m3u8
-#EXTINF:-1,Channel 3013
-http://103.140.254.2:3500/live/3013.m3u8
+
 #EXTINF:-1,Channel 3014
 http://103.140.254.2:3500/live/3014.m3u8
-#EXTINF:-1,Channel 3015
-http://103.140.254.2:3500/live/3015.m3u8
+
 #EXTINF:-1,Channel 3016
 http://103.140.254.2:3500/live/3016.m3u8
 #EXTINF:-1,Channel 3017
@@ -282,10 +173,7 @@ http://103.140.254.2:3500/live/3017.m3u8
 http://103.140.254.2:3500/live/3018.m3u8
 #EXTINF:-1,Channel 3019
 http://103.140.254.2:3500/live/3019.m3u8
-#EXTINF:-1,Channel 3020
-http://103.140.254.2:3500/live/3020.m3u8
-#EXTINF:-1,Channel 3021
-http://103.140.254.2:3500/live/3021.m3u8
+
 #EXTINF:-1,Channel 3022
 http://103.140.254.2:3500/live/3022.m3u8
 #EXTINF:-1,Channel 3023
@@ -296,14 +184,12 @@ http://103.140.254.2:3500/live/3024.m3u8
 http://103.140.254.2:3500/live/3025.m3u8
 #EXTINF:-1,Channel 3026
 http://103.140.254.2:3500/live/3026.m3u8
-#EXTINF:-1,Channel 3027
-http://103.140.254.2:3500/live/3027.m3u8
+
 #EXTINF:-1,Channel 3028
 http://103.140.254.2:3500/live/3028.m3u8
 #EXTINF:-1,Channel 3029
 http://103.140.254.2:3500/live/3029.m3u8
-#EXTINF:-1,Channel 3030
-http://103.140.254.2:3500/live/3030.m3u8
+
 #EXTINF:-1,Channel 3031
 http://103.140.254.2:3500/live/3031.m3u8
 #EXTINF:-1,Channel 3032
@@ -322,62 +208,41 @@ http://103.140.254.2:3500/live/3037.m3u8
 http://103.140.254.2:3500/live/3038.m3u8
 #EXTINF:-1,Channel 3039
 http://103.140.254.2:3500/live/3039.m3u8
-#EXTINF:-1,Channel 3040
-http://103.140.254.2:3500/live/3040.m3u8
+
 #EXTINF:-1,Channel 3041
 http://103.140.254.2:3500/live/3041.m3u8
 #EXTINF:-1,Channel 3042
 http://103.140.254.2:3500/live/3042.m3u8
 #EXTINF:-1,Channel 3043
 http://103.140.254.2:3500/live/3043.m3u8
-#EXTINF:-1,Channel 3044
-http://103.140.254.2:3500/live/3044.m3u8
+
 #EXTINF:-1,Channel 3045
 http://103.140.254.2:3500/live/3045.m3u8
-#EXTINF:-1,Channel 3046
-http://103.140.254.2:3500/live/3046.m3u8
-#EXTINF:-1,Channel 3047
-http://103.140.254.2:3500/live/3047.m3u8
+
 #EXTINF:-1,Channel 3048
 http://103.140.254.2:3500/live/3048.m3u8
 #EXTINF:-1,Channel 3049
 http://103.140.254.2:3500/live/3049.m3u8
 #EXTINF:-1,Channel 3050
 http://103.140.254.2:3500/live/3050.m3u8
-#EXTINF:-1,Channel 3051
-http://103.140.254.2:3500/live/3051.m3u8
-#EXTINF:-1,Channel 3052
-http://103.140.254.2:3500/live/3052.m3u8
+
 #EXTINF:-1,Channel 3053
 http://103.140.254.2:3500/live/3053.m3u8
-#EXTINF:-1,Channel 3054
-http://103.140.254.2:3500/live/3054.m3u8
-#EXTINF:-1,Channel 3055
-http://103.140.254.2:3500/live/3055.m3u8
-#EXTINF:-1,Channel 3056
-http://103.140.254.2:3500/live/3056.m3u8
-#EXTINF:-1,Channel 3057
-http://103.140.254.2:3500/live/3057.m3u8
+
 #EXTINF:-1,Channel 3058
 http://103.140.254.2:3500/live/3058.m3u8
 #EXTINF:-1,Channel 3059
 http://103.140.254.2:3500/live/3059.m3u8
 #EXTINF:-1,Channel 3060
 http://103.140.254.2:3500/live/3060.m3u8
-#EXTINF:-1,Channel 3061
-http://103.140.254.2:3500/live/3061.m3u8
-#EXTINF:-1,Channel 3062
-http://103.140.254.2:3500/live/3062.m3u8
 #EXTINF:-1,Channel 3063
 http://103.140.254.2:3500/live/3063.m3u8
 #EXTINF:-1,Channel 3064
 http://103.140.254.2:3500/live/3064.m3u8
-#EXTINF:-1,Channel 3065
-http://103.140.254.2:3500/live/3065.m3u8
+
 #EXTINF:-1,Channel 3066
 http://103.140.254.2:3500/live/3066.m3u8
-#EXTINF:-1,Channel 3067
-http://103.140.254.2:3500/live/3067.m3u8
+
 #EXTINF:-1,Channel 3068
 http://103.140.254.2:3500/live/3068.m3u8
 #EXTINF:-1,Channel 3069
